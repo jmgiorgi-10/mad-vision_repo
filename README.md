@@ -1,4 +1,4 @@
-## mad-vision_repo
+# mad-vision_repo
 
-# Installing Dependencies
+## Installing Dependencies
 pip3 install -r requirements.txt
